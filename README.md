@@ -1,6 +1,7 @@
 # Password-Generator
 
 ## Live Link
+- https://rachelmcallister1.github.io/Password-Generator/ 
 
 ## Goal
 - When clicking the password generator button, one will be prompted with four questions. They can choose if they'd like a password with lowercase letters, uppercase letters, special characters, and/or numeric characters. 
